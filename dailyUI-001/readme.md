@@ -1,4 +1,4 @@
-<h3> DAILY UI CHALLENGE #001 <h3>
+ DAILY UI CHALLENGE #001 
 
 Sign Up
  
