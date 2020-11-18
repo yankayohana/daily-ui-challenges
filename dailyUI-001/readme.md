@@ -1,6 +1,6 @@
 <h3> DAILY UI CHALLENGE #001 <h3>
 
-<p>Sign Up<p>
+Sign Up
  
 
 <p>Design Hint...<p>
