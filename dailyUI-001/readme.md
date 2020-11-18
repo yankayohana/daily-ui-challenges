@@ -1,4 +1,4 @@
- DAILY UI CHALLENGE #001 
+<h1 align="center" DAILY UI CHALLENGE #001 /h1>
 
 Sign Up
  
