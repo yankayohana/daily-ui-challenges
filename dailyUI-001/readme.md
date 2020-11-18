@@ -10,5 +10,5 @@ Create a sign up page, modal, form, or app screen related to signing up for some
 	🚧  daily  ui challenge 001 - Em construção...  🚧
 </h4>
 
-<h4> Essa é a primeira versão que fiz: <h4>
+<h4> Primeira versão: <h4>
 <img src="./001.jpeg">
