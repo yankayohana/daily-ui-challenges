@@ -1,6 +1,6 @@
 <h1 align="center">DAILY UI CHALLENGE #001 </h1>
 
-<p align="center">Sign Up</p>
+<h2 align="center">Sign Up</h2>
  
 
 Design Hint...
